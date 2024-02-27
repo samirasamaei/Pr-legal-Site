@@ -1,2 +1,16 @@
 # Pr-legal-Site
-Legal and consulting site
+
+
+![viewfinal]()
+
+![view final]()
+
+- [Demo Project]()
+
+- Developed by Samira samaei
+
+- Created - 2022-11-26
+
+- Technologies Used - Html , css , sass
+
+- Role - Frontend
