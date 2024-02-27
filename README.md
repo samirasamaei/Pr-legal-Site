@@ -1,6 +1,6 @@
 # Pr-legal-Site
 
-![view final]((https://github.com/samirasamaei/Pr-legal-Site/assets/156536932/0bd22433-1fa5-4a41-8523-4e67440edab4))
+![view final](https://private-user-images.githubusercontent.com/156536932/308067686-f789d6db-c467-4c03-8648-fb96744276dd.jpg)
 
 - [Demo Project]( https://samirasamaei.github.io/Pr-legal-Site/)
 
